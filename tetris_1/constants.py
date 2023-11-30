@@ -1,0 +1,3 @@
+GAME_SPEED = 400
+BG_COLOUR = "black"
+BD_WIDTH = 1
